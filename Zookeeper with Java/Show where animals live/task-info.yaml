@@ -175,5 +175,37 @@ files:
     \    }\n}"
     learner_created: false
 feedback_link: https://hyperskill.org/projects/229/stages/1149/implement#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    You should output the message about the end of the program!
+
+    Please find below the output of your program during this failed test.
+    Note that the &#39;&gt;&#39; character indicates the beginning of the input line.
+
+    ---
+
+    &gt; 0
+    Please enter the number of the habitat you would like to view: Switching on the camera in the camel habitat...
+     ___.-&#39;&#39;&#39;&#39;-.
+    /___  @    |
+    &#39;,,,,.     |         _.&#39;&#39;&#39;&#39;&#39;&#39;&#39;._
+         &#39;     |        /           \
+         |     \    _.-&#39;             \
+         |      &#39;.-&#39;                  &#39;-.
+         |                               &#39;,
+         |                                &#39;&#39;,
+          &#39;,,-,                           &#39;:;
+               &#39;,,| ;,,                 ,&#39; ;;
+                  ! ; !&#39;&#39;,,,&#39;,&#39;,,,,&#39;!  ;   ;:
+                 : ;  ! !       ! ! ;  ;   :;
+                 ; ;   ! !      ! !  ; ;   ;,
+                ; ;    ! !     ! !   ; ;
+                ; ;    ! !    ! !     ; ;
+               ;,,      !,!   !,!     ;,;
+               /_I      L_I   L_I     /_I
+    Look at that! Our little camel is sunbathing!
+  time: "Wed, 07 Feb 2024 13:38:28 UTC"
+record: 3
